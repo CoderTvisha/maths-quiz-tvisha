@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#scoreBoard{
+    color: white;
+
+}
+
+#player1_scoreBoard, #player2_scoreBoard{
+    color: white;
+}
